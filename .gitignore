@@ -1,0 +1,11 @@
+__info__
+
+.venv
+__pycache__
+
+*.code-workspace
+.vscode
+.env
+
+output
+examples/__orig__
